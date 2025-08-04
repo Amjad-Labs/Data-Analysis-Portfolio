@@ -33,6 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Analyzing the Factors Contributing to the Success of a Movie
 **Code:** [`Analyzing the Factors Contributing to the Success of Apps.ipynb`]
+
 **Goal:** To determine what factors contribute the most to apps success.
 
 **Description:** The project focused on analyzing a dataset-
