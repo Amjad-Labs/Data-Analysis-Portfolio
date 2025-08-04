@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of Apps](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-apps)
+    - [Analyzing the Factors Contributing to the Success of Apps](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-Apps)
     - [Tech Store Sales Analysis](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio#tech-store-sales-analysis)
   - SQL
     - [SQL Data Cleaning Project – Store Sales Messy Dataset](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio#sql-data-cleaning-project-–-store-sales-messy-dataset)
@@ -31,7 +31,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Analyzing the Factors Contributing to the Success of Apps
 **Code:** [`Analyzing the Factors Contributing to the Success of Apps.ipynb`]
 
 **Goal:** To determine what factors contribute the most to apps success.
