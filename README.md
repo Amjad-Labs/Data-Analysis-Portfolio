@@ -1,6 +1,6 @@
 # Amjad India - Data Analyst Portfolio
 ## About
-I’m a passionate and detail-oriented aspiring Data Analyst with a strong foundation in tools like SQL, Excel, Tableau, and basic Python. I specialize in data cleaning, visualization, and reporting, and I’m actively building a portfolio to showcase my ability to turn raw data into meaningful insights.
+I’m a passionate and detail-oriented aspiring Data Analyst with a strong foundation in tools like SQL, Excel, Tableau, and Python. I specialize in data cleaning, visualization, and reporting, and I’m actively building a portfolio to showcase my ability to turn raw data into meaningful insights.
 
 I’ve completed projects that demonstrate skills in dashboard creation, messy data cleaning, typing speed apps, and web scraping, and I’m always exploring ways to combine creativity with logic. I’m currently learning Alteryx and improving my skills in Linux and ethical hacking, aiming to become a well-rounded tech professional.
 
