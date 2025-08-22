@@ -36,7 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 - [Interactive version on Binder](https://mybinder.org/v2/gh/Amjad-Labs/PortfolioProjects/main?filepath=Uncovering-Key-Drivers-Behind-App-Market-Success.ipynb)
           
-> **Note:** Binder may take 7–8 minutes to load. If you are in a hurry, see the [**Sales Analysis**](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio/blob/main/README.md#Sales-Analysis) which uses static graphs for visualization.
+> **Note:** Binder may take 7–8 minutes to load. If you are in a hurry, see the [**Sales Analysis**](#sales-analysis) which uses static graphs for visualization.
           
 **Goal:-** The goal of this project is to **uncover key drivers behind app market success** using real-world Play Store datasets from Kaggle.  
 
