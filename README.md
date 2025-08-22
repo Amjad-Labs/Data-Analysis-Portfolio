@@ -31,18 +31,19 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Uncovering-Key-Drivers-Behind-App-Market-Success
 
-**Code:-** - [Notebook on GitHub](https://github.com/Amjad-Labs/PortfolioProjects/blob/main/Uncovering-Key-Drivers-Behind-App-Market-Success.ipynb)
+**Code:-** 
+- [Notebook on GitHub](https://github.com/Amjad-Labs/PortfolioProjects/blob/main/Uncovering-Key-Drivers-Behind-App-Market-Success.ipynb)
 
-          - [Interactive version on Binder](https://mybinder.org/v2/gh/Amjad-Labs/PortfolioProjects/main?filepath=Uncovering-Key-Drivers-Behind-App-Market-Success.ipynb)
+- [Interactive version on Binder](https://mybinder.org/v2/gh/Amjad-Labs/PortfolioProjects/main?filepath=Uncovering-Key-Drivers-Behind-App-Market-Success.ipynb)
           
-          > **Note:** Binder may take 7–8 minutes to load. If you are in a hurry, see the [**Sales Analysis**](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio/blob/main/README.md#Sales-Analysis) which uses static graphs for visualization.
+> **Note:** Binder may take 7–8 minutes to load. If you are in a hurry, see the [**Sales Analysis**](https://github.com/amjad-dev-analytics/Data-Analysis-Portfolio/blob/main/README.md#Sales-Analysis) which uses static graphs for visualization.
           
 **Goal:-** The goal of this project is to **uncover key drivers behind app market success** using real-world Play Store datasets from Kaggle.  
-          
-          I focused on:  
-         - Cleaning and standardizing messy data (missing values, inconsistent formats, duplicates)  
-         - Analyzing trends and patterns to identify factors affecting app performance  
-         - Visualizing insights using Plotly to make patterns easier to understand  
+
+I focused on:  
+- Cleaning and standardizing messy data (missing values, inconsistent formats, duplicates)  
+- Analyzing trends and patterns to identify factors affecting app performance  
+- Visualizing insights using Plotly to make patterns easier to understand  
 
 
 ### Sales Analysis
@@ -52,6 +53,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Goal:-** The goal of this project is to demonstrate the complete workflow of a sales data analysis pipeline using Python.  
 
 **Data Generation:-** A synthetic e-commerce dataset is created using Python (`faker`, `random`, `numpy`) with intentional imperfections such as inconsistent            date formats, mixed customer name styles, and missing values to simulate real-world challenges.
+
 - [data-creator-for-sales-analysis.py](https://github.com/Amjad-Labs/PortfolioProjects/blob/main/data-creator-for-sales-analysis.py) 
         
 **Data Cleaning & Preparation:-** The generated dataset is then processed to handle messy data, fix inconsistencies, and prepare it for analysis. 
@@ -66,11 +68,11 @@ This end-to-end project combines **dataset creation + analysis** into a single w
 
 **Goal:-** The goal of this project was to **clean and transform messy transaction data using SQL**.  
           
-          I focused on:  
-          - Removing duplicates and inconsistent records  
-          - Handling missing or invalid values  
-          - Standardizing formats (dates, customer names, product names, etc.)  
-          - Creating a structured dataset ready for analysis  
+I focused on:  
+- Removing duplicates and inconsistent records  
+- Handling missing or invalid values  
+- Standardizing formats (dates, customer names, product names, etc.)  
+- Creating a structured dataset ready for analysis  
 
 **Description:-** This project uses a synthetic Transaction dataset generated with Python (random, faker, numpy).
 
@@ -82,7 +84,7 @@ This end-to-end project combines **dataset creation + analysis** into a single w
   
 ![Before Cleaning](https://github.com/Amjad-Labs/PortfolioProjects/blob/main/before.png)
 
--After Cleaning
+- After Cleaning
 
 ![After Cleaning](https://github.com/Amjad-Labs/PortfolioProjects/blob/main/after.png)
 
