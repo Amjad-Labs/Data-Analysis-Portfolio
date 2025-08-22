@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
-    - [App Market Success](#uncovering-key-drivers-behind-app-market-success)
+    - [Uncovering-Key-Drivers-Behind-App-Market-Success](#uncovering-key-drivers-behind-app-market-success)
     - [Sales Analysis](#sales-analysis)
   - SQL
     - [SQL Data Cleaning Project](#sql-data-cleaning-project-store-sales-messy-dataset)
@@ -89,5 +89,5 @@ I focused on:
 ![After Cleaning](https://github.com/Amjad-Labs/PortfolioProjects/blob/main/after.png)
 
 ## Contacts
-- LinkedIn:
+- LinkedIn:[https://www.linkedin.com/in/amjad-baig-5800b8373](https://www.linkedin.com/in/amjad-baig-5800b8373)
 - Email: mdamjadbaig2008@gmail.com
